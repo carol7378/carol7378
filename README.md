@@ -1,18 +1,66 @@
+<!-- Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=200&section=header&text=Hi%20There!%20I'm%20Soyeon%20👋&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=35" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=100&section=header&text=&fontSize=0" width="100%"/>
-Hi 👋
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=40&section=footer&text=&fontSize=0" width="100%"/>
-<!--
-**carol7378/carol7378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About Me -->
+<h2 align="center">🎓 Data Science student dreaming of becoming a backend developer</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm <b>Soyeon Kim</b>, a student majoring in Data Science.<br/>
+  I enjoy solving problems and building things from scratch.<br/>
+  I'm a huge fan of a coffee brand called <b>Contrabass</b> – yes, coffee is life ☕🎻<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Tech Stack -->
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carol7378&show_icons=true&theme=transparent&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol7378&layout=compact&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=carol7378&theme=github-compact" />
+</p>
+
+---
+
+<!-- Baekjoon Tier -->
+<h3 align="center">🎖️ Baekjoon Online Judge</h3>
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=carol7378"/>
+</p>
+
+<!-- ⚠️ Replace 'YOUR_BOJ_USERNAME' with your actual Baekjoon ID -->
+
+---
+
+<!-- Typing Animation -->
+<h3 align="center">⏳ Always learning, always growing...</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Backend+developer+in+progress...;Loves+coffee+%26+contrabass;Let's+grow+together!+🚀" />
+</p>
+
+---
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carol7378&style=flat-square&color=04c9cd" alt="visitor count"/>
+</p>
+
+<!-- Bottom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=60&section=footer" width="100%"/>
