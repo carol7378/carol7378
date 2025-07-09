@@ -6,7 +6,7 @@
 
 <p align="center">
   I'm <b>Soyeon Kim</b>, a student majoring in Data Science.<br/>
-  I enjoy solving problems and building things from scratch.<br/>
+  I enjoy solving problems.<br/>
   I'm a huge fan of a coffee brand called <b>Contrabass</b> – yes, coffee is life ☕🎻<br/>
 </p>
 
