@@ -31,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol7378&layout=compact&theme=transparent" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=carol7378&theme=github-compact" />
-</p>
-
 ---
 
 <!-- Baekjoon Tier -->
@@ -50,10 +46,6 @@
 
 <!-- Typing Animation -->
 <h3 align="center">⏳ Always learning, always growing...</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Backend+developer+in+progress...;Loves+coffee+%26+contrabass;Let's+grow+together!+🚀" />
-</p>
 
 ---
 
