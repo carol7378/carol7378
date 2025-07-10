@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=200&section=header&text=Hi%20There!%20I'm%20Soyeon%20👋&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DFCFF,10:04C9CD,30:0397D8,75:40EDEF,100:2BEAE2&height=200&section=header&text=Hi!%20I'm%20Soyeon%20👋&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=35" width="100%"/>
 
 <!-- About Me -->
 
